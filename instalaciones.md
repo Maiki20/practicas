@@ -1,8 +1,14 @@
 # Pasos para instalar
 
-Seguir estos pasos:
+1. Seguir estos pasos:
+
+```
+git diff
+```
+
+2. Ejecutar el comando
 
 ```
 
-npm install
+npm start
 ```
