@@ -19,3 +19,6 @@ Debemos de tener en cuenta que omitiremos:
 node_modules
 .log
 .editorconfig
+
+### Actualizando desde github
+Este es un mensaje editado completamente desde github
