@@ -1,2 +1,4 @@
 # practicas
-practicas para aprender a programar !!
+practicas para aprender a programar
+
+### Hola mundo
